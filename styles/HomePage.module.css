@@ -7,6 +7,29 @@
   flex-direction: column;
   position: relative;
 }
+.heroimg img{
+  position: absolute;
+  width: 200px !important;
+}
+.heroimg2 img{
+  position: absolute;
+  top: 0%;
+  left: 45%;
+  width: 44%;
+  Z-INDEX: -1;
+  opacity: 0.5;
+}
+.heroimg3 img{
+  width: 56px ;
+  padding: 0.2rem 0.5rem;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
+}
+.heroimg3 img:hover{
+opacity: 0.5;
+}
 
 .background {
   font-size: 5rem;
@@ -16,6 +39,33 @@
   position: absolute;
   z-index: 1;
 }
+
+
+
+/* ############################################################### */
+.typewriter{
+  display: inline-block;
+  padding-bottom: 1rem;
+
+}
+.text{
+  font-size: 1.5rem;
+  color: #eee;
+  border-right: 5px solid var(--accent-color);
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 4s steps(32), cursor .4s step-end infinite alternate;
+}
+@keyframes cursor{
+  50% {border-color: transparent;}
+}
+@keyframes typing{
+  from {width: 0;}
+}
+/* ############################################################### */
+
+
 
 .foreground {
   z-index: 2;
@@ -101,6 +151,7 @@
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
+
 .illustration {
   height: 500px;
   width: 460px;
@@ -160,6 +211,17 @@
     height: 700px;
     width: 600px;
   }
+  .heroimg img{
+    position: absolute;
+    width: 100px !important;
+  }
+  .heroimg2 img{
+    display: none;  
+  }
+  .heroimg3 img{
+    display: inline;
+    padding-top: 5rem;
+  }
 }
 
 /* iPad */
@@ -215,5 +277,16 @@
     width: 75vw;
     height: 50vh;
     z-index: 1;
+  }
+  .heroimg img{
+    position: absolute;
+    width: 30px !important;
+  }
+  .heroimg2 img{
+    display: none;  
+  }
+  .heroimg3 img{
+    display: inline;
+    padding-top: 5rem;
   }
 }

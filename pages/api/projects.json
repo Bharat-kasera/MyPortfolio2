@@ -1,37 +1,49 @@
+
+
+
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "Disney Plus clone",
+    "image": "https://imgur.com/3XTVmvL.png",
+    "description": "A Disney Plus clone built with Vite.js that fetches data from an API and offers a visually appealing UI design similar to Disney Plus.",
+    "tags": ["react", "tailwind"],
+    "source_code": "https://github.com/Bharat-kasera/disney-clone",
+    "demo": "https://disney-clone-vitejs.vercel.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Education App Concept UI Design",
+    "image": "https://imgur.com/fAmxtZk.png",
+    "description": "Launch your learning journey with our innovative education app. Track your progress, engage with interactive tools, and achieve your goals like never before!",
+    "tags": ["figma","uiux"],
+    "demo": "https://www.behance.net/gallery/163111591/Education-app-UI-design"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Nike landing page UI Design",
+    "image": "https://imgur.com/IVjAoz6.png",
+    "description": "Elevate your game with the Nike Air Jordan 1 Mid Fearless Maison Chateau Rouge. Join our community of sneaker enthusiasts and step up your style today!",
+    "tags": ["figma","uiux"],
+    "demo": "https://dribbble.com/shots/20443531-Air-Jordan-1-Mid-Fearless-Maison-Chateau-Rouge"
+  },
+  {
+    "id": 3,
+    "name": "Vscode Themed Portfolio Website",
+    "image": "https://imgur.com/Bh5cyOE.png",
+    "description": "A portfolio designed with a focus on developers and featuring a interface inspired by VSCode.",
+    "tags": ["figma","uiux"],
+    "source_code": "https://github.com/Bharat-kasera/disney-clone",
+    "demo": "https://dribbble.com/shots/20443531-Air-Jordan-1-Mid-Fearless-Maison-Chateau-Rouge"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Disney Plus clone v2.0",
+    "image": "https://imgur.com/ptClkaE.png",
+    "description": "A Disney Plus clone built with React.js that fetches data from an API and offers a visually appealing UI design similar to Disney Plus.",
+    "tags": ["react", "tailwind"],
+    "source_code": "https://github.com/Bharat-kasera/disney-clone",
+    "demo": "https://dribbble.com/shots/20443531-Air-Jordan-1-Mid-Fearless-Maison-Chateau-Rouge"
   }
+
 ]

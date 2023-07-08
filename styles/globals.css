@@ -6,6 +6,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow: hidden;
+
 }
 
 /* Tags */
@@ -63,6 +65,19 @@
 }
 .next:hover {
   background: rgba(0, 112, 243, 0.25);
+}
+
+.figma {
+  border: 2px solid rgb(188, 89, 181);
+}
+.figma:hover {
+  background: rgba(140, 59, 94, 0.418);
+}
+.uiux {
+  border: 2px solid rgb(188, 89, 181);
+}
+.uiux:hover {
+  background: rgba(140, 59, 94, 0.418);
 }
 
 .tailwind {

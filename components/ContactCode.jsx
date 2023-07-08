@@ -2,54 +2,39 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
-  },
-  {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'bharat.kj044@gmail.com',
+    href: 'mailto:bharat.kj044@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'Bharat_k',
+    href: 'https://github.com/Bharat-kasera',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
-  },
-  {
-    social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'BharatKasera',
+    href: 'https://www.linkedin.com/in/bharat-kasera-481a27263/',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
+    link: 'bharat_ui',
+    href: 'https://www.instagram.com/bharat_ui/',
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
+    link: 'Bh_099',
+    href: 'https://t.me/Bh_099',
   },
   {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
+    social: 'dribble',
+    link: 'Bharat_UI',
+    href: 'https://dribbble.com/__wolf',
   },
   {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    social: 'Bharat Kasera',
+    link: 'Bharat_UI',
+    href: 'https://www.behance.net/bharat_ui',
   },
 ];
 

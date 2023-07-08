@@ -4,7 +4,7 @@ import styles from '../styles/ProjectCard.module.css';
 const ProjectCard = ({ project }) => {
   return (
     <div className={styles.card}>
-      <Image src={project.image} height={300} width={600} alt={project.name} />
+      <img src={project.image} alt={project.name} className={styles.prodectcard_img} />
       <div className={styles.content}>
         <h3>{project.name}</h3>
         <p>{project.description}</p>

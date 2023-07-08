@@ -5,6 +5,19 @@
   background: var(--main-bg);
 }
 
+
+/* .illustration {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 500px;
+  width: 460px;
+  transform: rotate(180deg);
+
+} */
+
+
 .content {
   padding: 2rem;
   color: var(--text-color);
