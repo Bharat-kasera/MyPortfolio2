@@ -46,7 +46,6 @@ opacity: 0.5;
 .typewriter{
   display: inline-block;
   padding-bottom: 1rem;
-
 }
 .text{
   font-size: 1.5rem;
@@ -258,7 +257,7 @@ opacity: 0.5;
     margin: 0;
   }
   .name {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .bio {
     font-size: 1.25rem;
@@ -288,5 +287,9 @@ opacity: 0.5;
   .heroimg3 img{
     display: inline;
     padding-top: 5rem;
+  }
+  .typewriter p{
+    text-align: center;
+    font-size: 0.7rem;
   }
 }

@@ -31,19 +31,18 @@
     "id": 3,
     "name": "Vscode Themed Portfolio Website",
     "image": "https://imgur.com/Bh5cyOE.png",
-    "description": "A portfolio designed with a focus on developers and featuring a interface inspired by VSCode.",
-    "tags": ["figma","uiux"],
-    "source_code": "https://github.com/Bharat-kasera/disney-clone",
-    "demo": "https://dribbble.com/shots/20443531-Air-Jordan-1-Mid-Fearless-Maison-Chateau-Rouge"
+    "description": "A portfolio designed with a focus on developer and featuring a interface inspired by VSCode.",
+    "tags": ["next"],
+    "demo": "https://myportfolio-bharat.vercel.app/"
   },
   {
     "id": 4,
     "name": "Disney Plus clone v2.0",
     "image": "https://imgur.com/ptClkaE.png",
-    "description": "A Disney Plus clone built with React.js that fetches data from an API and offers a visually appealing UI design similar to Disney Plus.",
+    "description": " Disney Plus clone with React.js and Firebase authentication. Fetch data from an API to offer a visually appealing UI, similar to the original Disney Plus platform.",
     "tags": ["react", "tailwind"],
     "source_code": "https://github.com/Bharat-kasera/disney-clone",
-    "demo": "https://dribbble.com/shots/20443531-Air-Jordan-1-Mid-Fearless-Maison-Chateau-Rouge"
+    "demo": "https://disney-plus-clone-bharat.vercel.app/"
   }
 
 ]
