@@ -19,3 +19,10 @@
   background: var(--tab-active-bg);
   border-bottom: none;
 }
+@media screen and (max-width: 400px){
+  .tab p {
+    margin-left: 3px;
+    font-size: 0;
+  }
+
+}
