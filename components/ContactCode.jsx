@@ -32,7 +32,7 @@ const contactItems = [
     href: 'https://dribbble.com/__wolf',
   },
   {
-    social: 'Bharat Kasera',
+    social: 'behance',
     link: 'Bharat_UI',
     href: 'https://www.behance.net/bharat_ui',
   },
