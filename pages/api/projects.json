@@ -43,6 +43,15 @@
     "tags": ["react", "tailwind"],
     "source_code": "https://github.com/Bharat-kasera/disney-clone",
     "demo": "https://disney-plus-clone-bharat.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "Food Ordering App",
+    "image": "https://imgur.com/d9pFd1C.png",
+    "description": "The React.js restaurant food order app is a web application designed to facilitate the process of ordering food from a restaurant. ",
+    "tags": ["react"],
+    "source_code": "https://github.com/Bharat-kasera/Food-Ordering-App",
+    "demo": "https://food-ordering-app-bhk.vercel.app/"
   }
 
 ]
